@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/vinay-parit/Perfume-Gabrielle)
-- Live Site URL: [Netlify Link](https://perfume-gabrielle.vercel.app/)
+- Live Site URL: [vercel Link](https://perfume-gabrielle.vercel.app/)
 
 ### ScreenShot
 
