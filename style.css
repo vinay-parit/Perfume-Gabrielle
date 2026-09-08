@@ -27,7 +27,7 @@ main {
   justify-content: center;
   align-items: center;
   /* background-color: var(--Cream); */
-  background-color: red;
+  background-color: crimson;
   height: 100vh;
   /* border-radius: 30px; */
 }
